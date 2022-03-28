@@ -12,8 +12,18 @@ function App() {
     padding:16
   };
 
+  // return (
+  //   <div style={style}>{name}</div>
+  // );
   return (
-    <div style={style}>{name}</div>
+    <div style={{
+          backgroundColor:'black',
+          color:'aqua',
+          fondSize:'48px',
+          fontWeight:'bold',
+          padding:16
+        }}>
+    </div>
   );
 }
 
