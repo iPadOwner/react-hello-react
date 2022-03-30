@@ -5,7 +5,7 @@ function App() {
   const name = '리액트';
 
   const style = {
-    backgroundColor:'black',
+    backgroundColor:'white',
     color:'aqua',
     fondSize:'48px',
     fontWeight:'bold',
